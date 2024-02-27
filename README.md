@@ -28,8 +28,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 </div>
-<br>
-<p align="center">
-<img wide="150" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeyoungChoi98&layout=compact">   
-<img wide="150" height="150" src="https://github-readme-stats.vercel.app/api?username=JaeyoungChoi98&show_icons=true">
-</p>
+<br><br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JaeyoungChoi98&show_icons=true">
+</div>
