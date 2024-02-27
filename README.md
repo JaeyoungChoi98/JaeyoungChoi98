@@ -2,10 +2,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Jaeyoung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 </p>
-<div align='center'> 🙋‍♂️백엔드 개발자가 되기 위해 공부 중입니다</div>
-<br>
+<div align="center">
 <p>🛠️&nbspLanguage&nbsp🛠️</p>
-<div >
+<div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <br><br>
 <p >🛠️&nbspDatabase&nbsp🛠️</p>
@@ -27,6 +26,7 @@
 <br><br>
 <p >🛠️&nbspGroup&nbsp🛠️</p>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</div>
 </div>
 <br>
 <p align="center">
