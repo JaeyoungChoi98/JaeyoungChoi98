@@ -12,4 +12,4 @@
 <p align="center">
   <img alt= "icon" wide="65" height="65" src="https://github.com/JaeyoungChoi98/220SRS/assets/107467750/717f1649-b950-44b9-b3aa-136508bb29cf">
 </p>
-[![JaeyoungChoi98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeyoungChoi98)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeyoungChoi98)]
