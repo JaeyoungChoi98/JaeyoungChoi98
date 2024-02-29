@@ -28,7 +28,6 @@
   <p>&nbspDatabase&nbsp</p>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <br><br>
   <p>&nbspFrameWorks&nbsp</p>
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -40,7 +39,6 @@
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
       <img src="https://img.shields.io/badge/Jmeter-B71C1C?style=for-the-badge&logo=Jmeter&logoColor=white">
-      <img src="https://img.shields.io/badge/Nginx-25D366?style=for-the-badge&logo=Nginx&logoColor=white">
 <br><br>
   <p>&nbspGroup&nbsp</p>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
