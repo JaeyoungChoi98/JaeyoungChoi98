@@ -13,7 +13,7 @@
     먹는것을 좋아하고 맛을 공유하는게 즐겁습니다. 훌쩍 떠나는 여행이 신나고 그속에서의 낭만을 즐길줄 압니다. 그렇기에 제가 가장 좋아하는 것은 친구들과 여행을 떠나 맛있는 음식과 자연풍경을 보며 추억을 공유하는 것입니다.
   </div>
   <div>
-    <h2>📞 Contect</h2>
+    <h2>Contact</h2>
     Email : cjy.backend@gmail.com
   </div>
 
@@ -22,7 +22,7 @@
 
 </div>
 <div align="center">
-  <h2>📚 Tech Stack</h2>
+  <h2>Tech Stack</h2>
 </div>
 <div align="center">
 <p>&nbspLanguage&nbsp</p>
